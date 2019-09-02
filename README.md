@@ -1,4 +1,3 @@
-### Plugin unmaintained. Feel free to make a fork ou submit PR.
 ### Fork de https://github.com/alexisju/social
 
 ## Social share plugin for Shaarli

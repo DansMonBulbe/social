@@ -1,4 +1,5 @@
 ### Plugin unmaintained. Feel free to make a fork ou submit PR.
+### Fork de https://github.com/alexisju/social
 
 ## Social share plugin for Shaarli
 
@@ -33,6 +34,10 @@ This should look like:
   ],
 }
 ```
+## To-Do
+- Se passer de AddToAny pour le partage sur Mastodon
+- Supprimer le code en dur de la première partie de l'adresse du permalien
+
 ### Demo
 
  - https://dansmonbul.be
